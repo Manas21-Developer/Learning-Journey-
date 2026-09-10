@@ -1,6 +1,12 @@
-
+Module 1 
 https://app.notion.com/p/Page-1-JDK-builds-JRE-runs-JVM-executes-the-complete-Java-runtime-hierarchy-at-a-glance-3d65dfd408a380f2b5bdfd5f6592557e?source=copy_link
 
 https://app.notion.com/p/Page-2-Java-code-is-compiled-into-bytecode-by-javac-then-the-JVM-loads-verifies-interprets-and-J-3d65dfd408a380b595c0c7415c6dcb16?source=copy_link
 
 https://app.notion.com/p/Page-3-Covers-real-world-JDK-JRE-usage-with-Docker-common-JVM-version-errors-debugging-checks-jun-3d75dfd408a3803fbbf0e10c470add52?source=copy_link
+
+
+Module 2 :-
+
+https://app.notion.com/p/Page-1-Interfaces-vs-Abstract-Classes-3d75dfd408a3800388add45e168439cb?source=copy_link
+
