@@ -10,3 +10,4 @@ Module 2 :-
 
 https://app.notion.com/p/Page-1-Interfaces-vs-Abstract-Classes-3d75dfd408a3800388add45e168439cb?source=copy_link
 
+https://app.notion.com/p/Page-2-Composition-vs-Inheritance-3d75dfd408a380ea8b95ccde65c83b16?source=copy_link
