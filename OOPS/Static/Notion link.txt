@@ -3,3 +3,5 @@ https://app.notion.com/p/Page-1-Fundamentals-What-Why-3e35dfd408a38060ad56c0ff68
 https://app.notion.com/p/Page-2-Core-Mechanism-How-each-form-works-3e35dfd408a380d39429cd9187254954?source=copy_link
 
 https://app.notion.com/p/Page-3-Real-Project-Usage-3e55dfd408a380198864ca379f5049c5?source=copy_link
+
+https://app.notion.com/p/Page-4-Debugging-Common-Mistakes-3e55dfd408a38036b529f53bcb0be554?source=copy_link
