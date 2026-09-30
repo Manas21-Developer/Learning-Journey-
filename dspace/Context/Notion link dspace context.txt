@@ -3,3 +3,5 @@ https://app.notion.com/p/Page-1-Fundamentals-What-is-super-and-why-does-it-exist
 https://app.notion.com/p/Page-2-Core-Mechanism-How-it-actually-works-3ea5dfd408a380b383cfc20cc2a4d209?source=copy_link
 
 https://app.notion.com/p/Page-3-Real-Project-Usage-Debugging-3eb5dfd408a380bfbb7af0d3a29fd036?source=copy_link
+
+https://app.notion.com/p/Page-4-Mistakes-Senior-Insight-Interview-3eb5dfd408a38057a8f5c5d7c6bb14f2?source=copy_link
