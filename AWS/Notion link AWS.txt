@@ -3,3 +3,5 @@ https://app.notion.com/p/Page-1-Cloud-Computing-Fundamentals-start-here-3ec5dfd4
 https://app.notion.com/p/Page-2-EC2-Elastic-Compute-Cloud-3ec5dfd408a380308790d05a2b011499?source=copy_link
 
 https://app.notion.com/p/Page-3-S3-Simple-Storage-Service-3ec5dfd408a380c297c5c47e91f9b9f3?source=copy_link
+
+https://app.notion.com/p/Page-4-RDS-Relational-Database-Service-3ec5dfd408a380bd86b5f167624721d9?source=copy_link
