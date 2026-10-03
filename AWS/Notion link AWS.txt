@@ -7,3 +7,5 @@ https://app.notion.com/p/Page-3-S3-Simple-Storage-Service-3ec5dfd408a380c297c5c4
 https://app.notion.com/p/Page-4-RDS-Relational-Database-Service-3ec5dfd408a380bd86b5f167624721d9?source=copy_link
 
 https://app.notion.com/p/Page-4-RDS-Relational-Database-Service-3ec5dfd408a380bd86b5f167624721d9?source=copy_link
+
+https://app.notion.com/p/Page-5-OpenSearch-Search-Analytics-3ec5dfd408a38008b5e0ec8d992a8d98?source=copy_link
