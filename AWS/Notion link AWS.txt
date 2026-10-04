@@ -9,3 +9,5 @@ https://app.notion.com/p/Page-4-RDS-Relational-Database-Service-3ec5dfd408a380bd
 https://app.notion.com/p/Page-4-RDS-Relational-Database-Service-3ec5dfd408a380bd86b5f167624721d9?source=copy_link
 
 https://app.notion.com/p/Page-5-OpenSearch-Search-Analytics-3ec5dfd408a38008b5e0ec8d992a8d98?source=copy_link
+
+https://app.notion.com/p/Page-6-CloudWatch-Monitoring-Logs-3ee5dfd408a3802f9b64d24500940164?source=copy_link
